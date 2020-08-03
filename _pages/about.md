@@ -12,7 +12,7 @@ I am a Computer Science Engineering Undergraduate at SSN College of Engineering,
 
 ## Links
 
-1. [jayaraman17064@cse.ssn.edu.in](mailto:jayaraman17064@cse.ssn.edu.in)
-2. [Codechef](https://www.codechef.com/users/range123)
-3. [Codeforces](https://codeforces.com/profile/range123)
-4. [Lichess](https://lichess.org/@/range123)
+- [**jayaraman17064@cse.ssn.edu.in**](mailto:jayaraman17064@cse.ssn.edu.in)
+- [**Codechef**](https://www.codechef.com/users/range123)
+- [**Codeforces**](https://codeforces.com/profile/range123)
+- [**Lichess**](https://lichess.org/@/range123)

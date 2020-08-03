@@ -16,39 +16,39 @@ redirect_from:
 
 ### UNDERGRADUATE
 
-**Sri Sivasubramaniya Nadar College Of Engineering** ​ **(SSNCE),**
-B.E (COMPUTER SCIENCE AND ENGINEERING)
-**CGPA: 8.64/10 (till 5** ​ **th** ​ **SEMESTER)**
-YEAR OF GRADUATION: 2021
+**Sri Sivasubramaniya Nadar College Of Engineering** ​ **(SSNCE),**  
+B.E (COMPUTER SCIENCE AND ENGINEERING)  
+**CGPA: 8.64/10 (till 5** ​ **th** ​ **SEMESTER)**  
+YEAR OF GRADUATION: 2021  
 
 **12** ​ **th** ​ **STANDARD
-St. John’s English School and Junior College (CBSE),
-Result: 479/500 (95.8%)**
-GRADUATION: MAY 2017
+St. John’s English School and Junior College (CBSE),  
+Result: 479/500 (95.8%)**  
+GRADUATION: MAY 2017  
 
-**10** ​ **th** ​ **STANDARD
-St. John’s English School and Junior College (CBSE),
-Result: 9.6 CGPA**
-GRADUATION: MAY 2015
+**10** ​ **th** ​ **STANDARD  
+St. John’s English School and Junior College (CBSE),  
+Result: 9.6 CGPA**  
+GRADUATION: MAY 2015  
 
 ## SCHOLASTIC ACHIEVEMENTS
 
-2020 Second Place, Datathon (Data science Competition) held at CEG, chennai.
-2019 ​ Was awarded a ​ **Merit Scholarship** ​ for academic excellence in Semesters 3 & 4.
-2019 Winner, JAVA Coding competition conducted at MIT, Chennai.
-2019 Winner, Reverse Coding competition held at CEG, Chennai.
-2018 Overall winner, intra-College Microprocessor Workshop.
+- 2020 Second Place, Datathon (Data science Competition) held at CEG, chennai.
+- 2019 ​ Was awarded a ​ **Merit Scholarship** ​ for academic excellence in Semesters 3 & 4.
+- 2019 Winner, JAVA Coding competition conducted at MIT, Chennai.
+- 2019 Winner, Reverse Coding competition held at CEG, Chennai.
+- 2018 Overall winner, intra-College Microprocessor Workshop.
 
 ## SKILLS
 
 ### PROGRAMMING LANGUAGES
 
 C, C++, Python, Java, JavaScript, SQL, GO, R.
-**FRAMEWORKS:**
+### FRAMEWORKS
 Numpy, Pandas, Keras, Tensorflow, PyTorch, Git, OpenCV, Spacy, Flask.
-**HARDWARE PLATFORMS**
+### HARDWARE PLATFORMS
 Raspberry PI, Arduino Uno, NodeMCU.
-**INTERESTS**
+### INTERESTS
 Competitive Programming, DeepLearning, NLP using Transformers, R-Learning (DQNs),
 Generative Networks.
 

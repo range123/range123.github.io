@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[**PDF version**](https://github.com/range123/range123.github.io/files/resume.pdf)
+[**PDF version**](https://range123.github.io/files/resume.pdf)
 
 ## EDUCATION
 

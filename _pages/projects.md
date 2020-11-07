@@ -5,15 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
-1. **Dino-Run (Present),** ​ A ​ **_Reinforcement-Learning_** ​ agent that will play the well known
+<!-- 1. **Dino-Run (Present),** ​ A ​ **_Reinforcement-Learning_** ​ agent that will play the well known
     google chrome browser game, a convolutional agent will be trained for playing the
-    game.
-2. **Deep Generative Models for Faces (Present)** ​, A Project aimed at generating faces
+    game. -->
+1. **Deep Generative Models for Faces (Present)** ​, A Project aimed at generating faces
     and evaluating different generative models such as Auto-Encoders, GANs, VAEs etc.
     the models are trained on the ​ _Labeled Faces in the Wild Dataset_ ​.
-3. **Temperature-Monitor (Present),** ​ An IOT based project for continuously Monitoring
+2. **Temperature-Monitor (Present)**, ​An IOT based project for continuously Monitoring
     the temperature of Mortar blocks using Arduino and thermocouples to analyse its
     physical properties, done as an Internally Funded Project.
+3. **MalwareDetection (2020)**, A MachineLearning based project for predicting if a program is malicious by using  the string representation for the program. An ML based approach was also used for detecting **__BotNets__** in network traffic, Submitted for IIT Kanpur Cybersecurity Hackathon.
 4. **RangeBot** ​ **(2020)** ​, A Bot that plays chess using ​ **_Alpha-Beta Pruning_** ​ and Endgame
     TableBases. It makes use of a creative heuristic function for searching the board
     states. Attained Peak performance of 1600 elo.

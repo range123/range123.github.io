@@ -18,7 +18,7 @@ redirect_from:
 
 **Sri Sivasubramaniya Nadar College Of Engineering** ​ **(SSNCE),**  
 B.E (COMPUTER SCIENCE AND ENGINEERING)  
-**CGPA: 8.64/10 (till 5** ​ **th** ​ **SEMESTER)**  
+**CGPA: 8.86/10 (till 6** ​ **th** ​ **SEMESTER)**  
 YEAR OF GRADUATION: 2021  
 
 **12** ​ **th** ​ **STANDARD
@@ -33,6 +33,7 @@ GRADUATION: MAY 2015
 
 ## SCHOLASTIC ACHIEVEMENTS
 
+- 2020 Top 30 submission, IIT Kanpur Cybersecurity Hackathon
 - 2020 Second Place, Datathon (Data science Competition) held at CEG, chennai.
 - 2019 ​ Was awarded a ​ **Merit Scholarship** ​ for academic excellence in Semesters 3 & 4.
 - 2019 Winner, JAVA Coding competition conducted at MIT, Chennai.
@@ -74,22 +75,24 @@ use of a pre-trained transformer (​ BERT) ​ to perform the summarization.
 
 1. **Introduction To Deep Learning** ​ ​(2020), National Research University Higher
     School of Economics, Coursera
-2. **Algorithmic Toolbox** ​ (2020), University of California San Diego, Coursera
-3. **Data Structures** ​ (2020), University of California San Diego, Coursera
-4. **Algorithms on Graphs** ​ (2020), University of California San Diego, Coursera
-5. Deep Learning Specialization (Present), Deeplearning.ai, Coursera
+2. **Natural Language Processing with Classification and Vector Spaces** (2020), Deeplearning.ai, Coursera
+3. **Algorithmic Toolbox** ​ (2020), University of California San Diego, Coursera
+4. **Data Structures** ​ (2020), University of California San Diego, Coursera
+5. **Algorithms on Graphs** ​ (2020), University of California San Diego, Coursera
+6. Build Basic Generative Adversarial Networks (GANs) (Present), Deeplearning.ai, Coursera
 
 ## PROJECTS
 
-1. **Dino-Run (Present),** ​ A ​ **_Reinforcement-Learning_** ​ agent that will play the well known
+<!-- 1. **Dino-Run (Present),** ​ A ​ **_Reinforcement-Learning_** ​ agent that will play the well known
     google chrome browser game, a convolutional agent will be trained for playing the
-    game.
-2. **Deep Generative Models for Faces (Present)** ​, A Project aimed at generating faces
+    game. -->
+1. **Deep Generative Models for Faces (Present)** ​, A Project aimed at generating faces
     and evaluating different generative models such as Auto-Encoders, GANs, VAEs etc.
     the models are trained on the ​ _Labeled Faces in the Wild Dataset_ ​.
-3. **Temperature-Monitor (Present),** ​ An IOT based project for continuously Monitoring
+2. **Temperature-Monitor (Present)**, ​An IOT based project for continuously Monitoring
     the temperature of Mortar blocks using Arduino and thermocouples to analyse its
     physical properties, done as an Internally Funded Project.
+3. **MalwareDetection (2020)**, A MachineLearning based project for predicting if a program is malicious by using  the string representation for the program. An ML based approach was also used for detecting **__BotNets__** in network traffic, Submitted for IIT Kanpur Cybersecurity Hackathon .
 4. **RangeBot** ​ **(2020)** ​, A Bot that plays chess using ​ **_Alpha-Beta Pruning_** ​ and Endgame
     TableBases. It makes use of a creative heuristic function for searching the board
     states. Attained Peak performance of 1600 elo.
